@@ -1,0 +1,12 @@
+.presence {
+    cursor: pointer;
+}
+
+.presence>span {
+    min-width: 150px;
+}
+
+.btn-close {
+    
+    background-color: lightcoral;
+}
